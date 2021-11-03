@@ -16,6 +16,8 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "^3.4.4"
   },
+
+  jira about license
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
